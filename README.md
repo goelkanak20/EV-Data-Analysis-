@@ -103,3 +103,5 @@ The findings indicate a strong and accelerating shift toward electric mobility, 
 Overall, this project demonstrates how data visualization and analytical thinking can transform complex datasets into clear, actionable insights for business and policy decision-making.
 
 🔗 Tableau Dashboard Link
+https://github.com/goelkanak20/EV-Data-Analysis-/blob/main/ev%20tableau%20ss%20.png
+
