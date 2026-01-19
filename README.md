@@ -104,4 +104,4 @@ Overall, this project demonstrates how data visualization and analytical thinkin
 
 🔗 Tableau Dashboard Link
 https://github.com/goelkanak20/EV-Data-Analysis-/blob/main/ev%20tableau%20ss%20.png
-
+https://github.com/goelkanak20/EV-Data-Analysis-/blob/main/EV%20Project%20Tableau.twbx
